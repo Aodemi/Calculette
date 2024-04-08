@@ -2,6 +2,7 @@ package javafx.calculette.calculette;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
+import javafx.scene.paint.Color;
 
 public class DemoController {
     @FXML
@@ -17,4 +18,11 @@ public class DemoController {
             welcomeText.setVisible(true);
         }
     }
+
+    @FXML
+    protected void textRouge() {
+        welcomeText.setTextFill(Color.RED);
+    }
+
+
 }

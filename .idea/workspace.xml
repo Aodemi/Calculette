@@ -4,12 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a07d114f-212c-4d89-90bf-d8b500675428" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/javafx/calculette/calculette/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/javafx/calculette/calculette/DemoController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/javafx/calculette/calculette/Demo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/javafx/calculette/calculette/Demo.fxml" afterDir="false" />
+    <list default="true" id="a07d114f-212c-4d89-90bf-d8b500675428" name="Changes" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/javafx/calculette/calculette/CalculController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/javafx/calculette/calculette/Calculatrice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/javafx/calculette/calculette/Calculatrice.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/javafx/calculette/calculette/Calculatrice.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javafx/calculette/calculette/DemoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javafx/calculette/calculette/DemoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/javafx/calculette/calculette/Demo.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/javafx/calculette/calculette/Demo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/javafx/calculette/calculette/Demo.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/javafx/calculette/calculette/Demo.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +22,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="FxmlFile" />
         <option value="Class" />
+        <option value="FxmlFile" />
         <option value="CSS File" />
       </list>
     </option>
@@ -35,9 +38,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2epibCunynPriPVWHUklLekSMhP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -46,6 +49,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Calculatrice.executor": "Run",
     "Application.Demo.executor": "Run",
     "Application.HelloApplication.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -68,11 +72,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1712607989143</updated>
-      <workItem from="1712607990139" duration="1540000" />
+      <workItem from="1712607990139" duration="1735000" />
+      <workItem from="1712609736726" duration="4303000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1712609598033</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712609598033</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
 </project>

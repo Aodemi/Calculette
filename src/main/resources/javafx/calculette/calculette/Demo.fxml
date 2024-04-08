@@ -11,4 +11,5 @@
 
     <Label fx:id="welcomeText" alignment="CENTER" contentDisplay="CENTER" prefHeight="35.0" prefWidth="210.0" text="Test" textAlignment="CENTER" visible="false" />
     <Button onAction="#toggleAffichage" text="Affiche" />
+    <Button onAction="#textRouge" text="Rouge" />
 </VBox>
